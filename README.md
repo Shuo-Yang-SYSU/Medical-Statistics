@@ -3,5 +3,7 @@ Our project will demonstrate various discretization methods and assist users in 
 
 # Contributors
 Shuo Yang,
+
 Yi Fei,
+
 Jinxin Zhang.
